@@ -1,3 +1,5 @@
+
+
 x="dev"
 
 def func():
@@ -13,3 +15,4 @@ def func1():
     var1="arma"
 func1();
 print(y+var1)
+
